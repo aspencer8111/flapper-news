@@ -1,0 +1,28 @@
+{
+  "name": "flapper-news",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Spencer <alex@alexspencer.net>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-ui-router": "~0.2.13",
+    "bootstrap": "~3.3.4",
+    "angular-devise": "~1.0.2"
+  }
+}
